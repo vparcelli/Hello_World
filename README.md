@@ -4,16 +4,16 @@ Hello there!
 
 I am a Business Analytics undergrad student in Pro-Prep!
 
-### **Project Title** 
+##### **Project Title** 
 :+1:
-### **Description**
+## **Description**
 My first repository - Hello_World
-### **How to run program**
+# **How to run program**
 - [ ] Hello_World
 - [ ] Scroll Down
-### **Files Used**
+## **Files Used**
 None
-### **Additional Documentation**
+## **Additional Documentation**
 None
-### **Versioning**
+# **Versioning**
 Most updated version - 2-8-21
