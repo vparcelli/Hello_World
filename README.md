@@ -5,11 +5,12 @@ Hello there!
 I am a Business Analytics undergrad student in Pro-Prep!
 
 ### **Project Title** 
-:EMOJICODE:
+:+1:
 ### **Description**
 My first repository - Hello_World
 ### **How to run program**
-
+[] Hello_World
+[] Scroll Down
 ### **Files Used**
 None
 ### **Additional Documentation**
