@@ -9,8 +9,8 @@ I am a Business Analytics undergrad student in Pro-Prep!
 ### **Description**
 My first repository - Hello_World
 ### **How to run program**
- [] Hello_World
- [] Scroll Down
+- [] Hello_World
+- [] Scroll Down
 ### **Files Used**
 None
 ### **Additional Documentation**
