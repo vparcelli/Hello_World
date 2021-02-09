@@ -4,8 +4,8 @@ Hello there!
 
 I am a Business Analytics undergrad student in Pro-Prep!
 
-##### **Project Title** 
-:+1:
+#### **Project Title** 
+:+1: : Hello_World
 ## **Description**
 My first repository - Hello_World
 # **How to run program**
