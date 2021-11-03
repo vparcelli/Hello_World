@@ -1,19 +1,20 @@
 # Hello_World
-First repository for Pro-Prep
-Hello there!
+Updated repository for Fall21 Professional Development Business Acumen
 
-I am a Business Analytics undergrad student in Pro-Prep!
+Hello there and welcome to my profile!
+
+I am a Graduate Business Analytics student in Professional Development Seminar at UIowa!
 
 # **Project Title** 
 :+1: : Hello_World
 ### **Description**
-My first repository - Hello_World
+My first -updated- repository - Hello_World
 #### **How to run program**
 - [ ] Hello_World
 - [ ] Scroll Down
 #### **Files Used**
-None
+None yet
 #### **Additional Documentation**
-None
+None yet
 ## **Versioning**
-Most updated version - 2-8-21
+Most updated version - 11-3-21
